@@ -5,7 +5,7 @@
 
 let promise = new Promise(function(resolve, reject) {
 
-  let success = false;
+  let success = true;
 
   if (success) {
     resolve("Task completed");
